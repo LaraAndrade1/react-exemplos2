@@ -9,5 +9,5 @@ export {
   Home,
   Movie,
   Favorites,
-  Error
+  Error,
 }
