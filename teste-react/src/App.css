@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  
+}
+
+.button{
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #fff;
+  color: red;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  width: 25%;
+  margin: auto;
+
+}
+
+.button:hover{
+  background-color: red;
+  color:#fff
+}
+
+
